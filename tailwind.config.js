@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     "./src/**/*.{html,js}",
-    "./public/**/*.{html,js}" //Backgorund
+    "./public/**/*.{html,js}" //Background
   ],
   theme: {
 

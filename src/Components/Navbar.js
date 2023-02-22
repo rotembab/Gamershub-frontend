@@ -15,7 +15,7 @@ function Navbar() {
         {/* Search bar */}
         <input type="text" className='bg-white rounded-full h-8 w-1/2 max-sm:w-34 m-auto pl-2' placeholder='Search'/>
 
-        <img className='p-2 w-11 h-11 text-white' alt='Wishlist' src={require('../HeartLogo.png')}/>
+        <img className='p-2 w-11 h-11' alt='Wishlist' src={require('../HeartLogo.png')}/>
         <img className='p-2 w-11 h-11' alt='Cart' src={require('../CartLogo.png')}/>
         <img className='p-2 w-11 h-11' alt='My Account' src={require('../AccountLogo.png')}/>
     </div>

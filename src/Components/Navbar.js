@@ -10,7 +10,7 @@ function Navbar() {
     const [menu,setMenu] = useState(false);
 
   return (
-      <div className='bg-secondary p-2 max-sm:p-4 flex flex-row w-full m-auto'>
+      <div className='p-2 max-sm:p-4 flex flex-row w-full m-auto'>
           {/* Logo */}
           <img className=' m-r-auto p-1 w-12' alt='GamersHub Logo' src={Logo}/>
           {/* Burger menu for mobile */}

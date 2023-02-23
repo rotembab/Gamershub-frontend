@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar";
 function App() {
   return (
-    <div>
+    <div className='max-w-screen-2xl m-auto'> 
       <Navbar/>
     </div>
   );

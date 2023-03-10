@@ -9,6 +9,6 @@ This proect created by using React.js , TailwindCSS , React Router dom, etc.
 
 > npm i
 
-> ### then:
->
+### then:
+
 > npm start

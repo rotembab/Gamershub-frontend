@@ -5,5 +5,5 @@ This proect created by using React.js , TailwindCSS , React Router dom, etc.
 
 ### How to run?
 
-"npm i"
-then "npm start"
+> npm i
+> then > npm start

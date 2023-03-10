@@ -3,7 +3,12 @@
 This is a demo project that simulates a modern gaming seller website.
 This proect created by using React.js , TailwindCSS , React Router dom, etc.
 
-### How to run?
+## How to run?
+
+### type:
 
 > npm i
-> then > npm start
+
+> ### then:
+>
+> npm start

@@ -16,8 +16,10 @@ export default function Carousel(props) {
   }
 
   return (
-  <div> 
-    <img src={props.images[img][0]} alt={props.images[img][1]}/>
+  <div className='w-full m-auto text-center'>
+    <button onClick={PreviousImg}>Prev</button>
+    <img className='m-auto' src={props.images[img][0]} alt={props.images[img][1]}/>
+    <button onClick={NextImg}>Next</button>
   </div>
   )
 }
